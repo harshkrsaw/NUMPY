@@ -1,7 +1,0 @@
-adding stuff
-<<<<<<< HEAD
-adding more stuff
-adding line
-adding stuff
-=======
->>>>>>> e7cdd63df85a2fd1163f386c127eda836ed480fe
